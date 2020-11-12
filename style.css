@@ -40,11 +40,11 @@ header .linea-purpura {
 
 header .backgroundImg {
     /* To make visible our img, we have to give it dimensions */
-    width: 38.8rem;
+    width: 85%;
     height: 35%;
     margin: 0 auto;
-    margin-top: 5rem;
-    margin-bottom: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
     background-image: url('./Assets/index/fonoteca.jpg');
     /*
     COVER.
@@ -58,6 +58,24 @@ header .backgroundImg {
     this we use no repeat. */
     background-repeat: no-repeat;
     border-radius: 15px;
+}
+
+.logo-gobierno {
+    display: block;
+    width: 75%;
+    margin: auto;
+    margin-top: 2rem;
+    max-height: 14rem;
+    max-width: 45rem;
+}
+
+.logo-museos {
+    display: block;
+    width: 75%;
+    margin: auto;
+    margin-top: 2rem;
+    max-height: 14rem;
+    max-width: 45rem;
 }
 
 .vista-2 {
