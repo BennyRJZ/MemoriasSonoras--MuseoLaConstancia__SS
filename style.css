@@ -22,8 +22,9 @@ header {
 
 header h1 {
     font-size: 10rem;
-    line-height: 8rem;
+    line-height: 7.5rem;
     margin-bottom: 2rem;
+    margin-top: 1rem;
 }
 
 header .linea-vino {
@@ -83,26 +84,67 @@ header .backgroundImg {
     height: 100vh;
 }
 
+main .linea-vino {
+    width: 100%;
+    height: 1rem;
+    background-color: var(--vino);
+}
+
+main .linea-purpura {
+    width: 100%;
+    height: 1rem;
+    background-color: var(--purpura);
+}
+
+.vista-2 h1 {
+    font-size: 9rem;
+    line-height: 7rem;
+    color: whitesmoke;
+}
+
+.vista-2 .title--background {
+    background-color: black;
+}
+
+.vista-2 .descripcion--titulo {
+    text-align: center;
+    font-size: 3.9rem;
+    margin-top: 2rem;
+}
+
+.vista-2 p {
+    margin-left: 3rem;
+    margin-right: 3rem;
+    font-size: 1.8rem;
+    line-height: 1.8;
+    margin-top: 3rem;
+}
+
 .vista-3 {
     width: 100%;
-    height: 90vh;
+    height: 92vh;
+}
+
+.vista-3 h1 {
+    font-size: 8.2rem;
+    text-align: center;
 }
 
 footer {
     width: 100%;
-    height: 10vh;
+    height: 8vh;
     background-color: black;
     color: whitesmoke;
 }
 
 footer .linea-vino {
     width: 100%;
-    height: 1.2rem;
+    height: 1rem;
     background-color: var(--vino);
 }
 
 footer .linea-purpura {
     width: 100%;
-    height: 1.2rem;
+    height: 1rem;
     background-color: var(--purpura);
 }

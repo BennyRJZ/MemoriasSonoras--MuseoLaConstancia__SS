@@ -12,4 +12,8 @@ En este apartado agregamos la imagen, edición del interlineado del header y log
 
 #
 ### Commit #3 -- Logos de Gobierno.
-Agregamos los logos a la portada del proyecto
+Agregamos los logos a la portada del proyecto.
+
+#
+### Commit #4 -- Sección 2 Terminada, Descripción del Proyecto.
+Descripcion del Proyecto Memorias Sonoras
