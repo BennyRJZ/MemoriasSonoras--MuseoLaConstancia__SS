@@ -17,3 +17,7 @@ Agregamos los logos a la portada del proyecto.
 #
 ### Commit #4 -- Sección 2 Terminada, Descripción del Proyecto.
 Descripcion del Proyecto Memorias Sonoras
+
+#
+### Commit #5 -- Estructura Sección 3 del Proyecto, Regiones.
+Estructura de los links a las regiones de la exposición.
