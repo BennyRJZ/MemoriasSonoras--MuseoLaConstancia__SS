@@ -54,7 +54,7 @@ header .backgroundImg {
     margin: 0 auto;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background-image: url('./Assets/index/fonoteca.jpg');
+    background-image: url('./Assets/index/fonoteca.jpeg');
     /*
     COVER.
     The image cover all the space depending of the size of the container
@@ -132,9 +132,23 @@ main .linea-purpura {
 .vista-2 p {
     margin-left: 3rem;
     margin-right: 3rem;
-    font-size: 1.8rem;
-    line-height: 1.8;
-    margin-top: 3rem;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin-top: 1rem;
+}
+
+.logo-museos {
+    display: flex;
+    margin-top: 2rem;
+}
+
+.logo-constancia {
+    height: 6.5rem;
+    margin-right: 2.5rem;
+}
+
+.logo-fonoteca {
+    height: 6.5rem;
 }
 
 

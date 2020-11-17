@@ -21,3 +21,8 @@ Descripcion del Proyecto Memorias Sonoras
 #
 ### Commit #5 -- Estructura Sección 3 del Proyecto, Regiones.
 Estructura de los links a las regiones de la exposición.
+
+#
+### Commit #6 -- Update Descripción, Logos Segunda Seccion.
+Actualizamos la descripción del proyecto, agregamos logos a la segunda sección
+correspondiente.
