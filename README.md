@@ -26,3 +26,7 @@ Estructura de los links a las regiones de la exposición.
 ### Commit #6 -- Update Descripción, Logos Segunda Seccion.
 Actualizamos la descripción del proyecto, agregamos logos a la segunda sección
 correspondiente.
+
+#
+### Commit #7 -- Cards de la Exposición, corrección de estilos.
+Agregamos cards que dirigen a la coleccion de sonidos de cada región. Modifiqué el estilo del título inicial
