@@ -30,3 +30,7 @@ correspondiente.
 #
 ### Commit #7 -- Cards de la Exposición, corrección de estilos.
 Agregamos cards que dirigen a la coleccion de sonidos de cada región. Modifiqué el estilo del título inicial
+
+#
+### Commit #8 -- Estructura Inicial Region Sonora.
+Estructura inicial de la región sonora para después sólo crear réplicas con su propio contenido.
