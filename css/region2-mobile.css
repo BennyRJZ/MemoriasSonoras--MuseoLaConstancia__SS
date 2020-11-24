@@ -36,7 +36,7 @@ header .backgroundImg {
     height: 100%;
     margin: 0 auto;
     margin-bottom: 3rem;
-    background-image: url('../Assets/region1/r1.jpg');
+    background-image: url('../Assets/region2/r2.jpg');
     /*
     COVER.
     The image cover all the space depending of the size of the container
@@ -106,7 +106,7 @@ main .linea-purpura {
     border-radius: 50%;
     left: 50%;
     margin: auto;
-    background-image: url('../Assets/region1/r1.jpg');
+    background-image: url('../Assets/region2/r2.jpg');
     /*
     COVER.
     The image cover all the space depending of the size of the container
