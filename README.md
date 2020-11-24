@@ -34,3 +34,11 @@ Agregamos cards que dirigen a la coleccion de sonidos de cada región. Modifiqu�
 #
 ### Commit #8 -- Estructura Inicial Region Sonora.
 Estructura inicial de la región sonora para después sólo crear réplicas con su propio contenido.
+
+#
+### Commit #9 -- Region 1 terminada
+Region de Base Terminada
+
+#
+### Commit #10 -- Agregamos las 7 regiones y modificamos los colores.
+Subimos las 7 regiones del proyecto.
